@@ -7,7 +7,7 @@ Below our current list of SP consulting partners, as well as the various grant o
 ## Current Consulting Partners
 * [Factor8 Solutions](https://factor8.io/) 
     * [Factor8 - FSPM Grants Website](https://factor8.io/fspm-grant.html) 
-    * [Book a assessment meeting](https://factor8.typeform.com/fspm-sched)
+    * [Book an assessment meeting](https://factor8.typeform.com/fspm-sched)
 * _More to come!_
 
 
