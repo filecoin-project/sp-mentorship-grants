@@ -1,0 +1,73 @@
+name: FSPM Grant Application
+description: (Cold) Apply for a FSPM Grant
+title: "[Application] Please fill in your Operations name here"
+labels: ["new"]
+body:
+  - type: markdown
+    attributes:
+      value: Welcome to the FSPM Grants application form. Please provide us with some information so one of our consulting providers can contact you to schedule an assessment meeting
+  - type: input
+    id: name
+    attributes:
+      label: What is your Name?
+      placeholder: Peter Pan
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: nature
+    attributes:
+      label: What is the nature of your project?
+      description: To prepare the initial meeting our consultants need to know what your operation is planing to do / doing
+      multiple: true
+      options:
+        - Storage Provider
+        - Storage Client
+        - Ecosystem App
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: nature-other
+    attributes:
+      label: Other? Let us know what you are doing!
+      description: To prepare the initial meeting our consultants need to know what your operation is planing to do / doing
+      placeholder: Our operation...
+    validations:
+        required: false
+  - type: dropdown
+    id: stage
+    attributes:
+      label: What stage is your operation in?
+      multiple: false
+      options:
+        - Exploration
+        - Evaluation
+        - Implementation
+        - Production
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: stage-other
+    attributes:
+      label: Other? Let us know where you stand right now!
+      placeholder: Our operation...
+    validations:
+        required: false
+  - type: textarea
+    id: misc
+    attributes:
+      label: Is there anything else you want us to know?
+    validations:
+        required: false
+  - type: markdown
+    attributes:
+      value: Thank you for taking the time! One of our consulting providers will contact you soon.
