@@ -24,4 +24,4 @@ We are looking for potential Storage Providers from all backgrounds and regions,
 _Note: Once approved for subsidized consulting services, offered the granted hours, candidates have seven working (7) days to sign the consulting agreement with the consultant. Demand is expected to be high, so your cooperation in onboarding quickly and efficiently will be very much appreciated. Lastly, you can find more information about availability and the exact terms of the offered consulting packages on the consultants website_
 
 ## Questions
-We would love to hear from you! The world of Filecoin is fast paced, so we tend to prefer live communication channels. Please [join the the Filecoin slack](https://filecoin.io/slack) and head over to the the program channel [#fil-sp-mentorship-grants](https://filecoinproject.slack.com/archives/C03C86E3WU8).
+We would love to hear from you! The world of Filecoin is fast paced, so we tend to prefer live communication channels. Please [join the Filecoin slack](https://filecoin.io/slack) and head over to the the program channel [#fil-sp-mentorship-grants](https://filecoinproject.slack.com/archives/C03C86E3WU8).
